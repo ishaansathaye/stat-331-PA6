@@ -1,4 +1,5 @@
 ---
 title: "Sample Quarto Document"
+author: "Ishaan Sathaye"
 format: html
 ---
